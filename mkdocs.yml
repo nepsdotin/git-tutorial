@@ -1,0 +1,22 @@
+site_name: Git Workshop BY IEDF.in & GrandAppStudio.in
+
+theme: readthedocs
+
+pages:
+- [index.md, Home]
+- [motive.md, Motivation]
+- [history.md, History]
+- [distributed.md, Distributed Version Control]
+- [uniqueness.md, Uniqueness]
+- [install.md, Installation]
+- [add-git-path.md, Adding GIT DIRECTORY TO Windows PATH]
+- [gitgui.md, GUI Tools For GIT]
+- [initaddcommit.md, Getting Started]
+- [initaddcommit_ex_1.md, Getting Started Exercise 1.1]
+- [initaddcommit_rev.md, Init add commit Revisit]
+- [statuslog.md, Status & Log ]
+- [statuslog_ex_1.md, Exercise on Status & Log]
+- [checkoutrevertreset.md, Undoing Changes Safely!]
+- [getstarted_ex_1.2.md, Exercise 1.2]
+- [ref.md, References]
+- [todo.md, Todo]
