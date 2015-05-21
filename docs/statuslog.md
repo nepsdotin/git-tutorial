@@ -1,7 +1,8 @@
 #Inspecting a Repository with status, log
 
+### The lifecycle of the status of your files.
+![](img/lifecycle.png)
 ## Status
-
 ```
 $ git status
 ```
@@ -57,9 +58,22 @@ Limit the number of commits by <limit>. For example, git log -n 3 will display o
 
 
 ```
+$ git log --pretty=oneline
+$ git log --pretty=short
+$ git log --pretty=full
+$ git log --pretty=format:"%h - %an, %ar : %s"
+```
+This option changes the log output to formats other than the default. A few prebuilt options are available for you to use. The oneline option prints each commit on a single line, which is useful if you’re looking at a lot of commits In addition, the short, full, and fuller
+
+More format available
+[http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-HistoryStupid1234
+)
+
+```
 $ git log --oneline
 ```
 Condense each commit to a single line. This is useful for getting a high-level overview of the project history.
+
 
 
 ```
@@ -89,3 +103,13 @@ Show only commits that occur between <since> and <until>. Both arguments can be 
 ```
 git log --graph --decorate --oneline
 ```
+
+###Fancy git log
+```
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset'
+
+# Make it git alias
+
+```
+### Note
+**Author and Committer** The author is the person who originally wrote the work, whereas the committer is the person who last applied the work. So, if you send in a patch to a project and one of the core members applies the patch, both of you get credit – you as the author, and the core member as the committer. 

@@ -2,6 +2,9 @@
 
 ## init , add, commit
 
+### The lifecycle of the status of your files.
+![](img/lifecycle.png)
+
 ```
 $ git init
 ```
@@ -57,6 +60,13 @@ New files should be separately added.
 git commit -a
 git commit --all
 ```
+
+### --amend
+
+```
+$ git commit --amend -m 'message'
+```
+Adds new commit message with the previous staged content.
 
 ### commitID
 ```
