@@ -4,6 +4,7 @@ theme: readthedocs
 
 pages:
 - [index.md, Home]
+- [whoami.md, Who am i]
 - [motive.md, Motivation]
 - [history.md, History]
 - [distributed.md, Distributed Version Control]
@@ -17,8 +18,7 @@ pages:
 - [statuslog_ex_1.md, Exercise on Status & Log]
 - [checkoutrevertreset.md, Undoing Changes Safely!]
 - [checkoutrevertreset_ex_1.md, Exercise on Undoing Changes Safely!]
-- [branch.md, Branching Merging]
+- [branch.md, Branching Merging Handson]
 - [workflows.md, Git Workflows]
 - [featureflow.md, Feature Development]
 - [ref.md, References]
-- [todo.md, Todo]

@@ -42,12 +42,15 @@ git branch <new-branch>
 
 # Checkout the branch
 git checkout <new-branch>
+```
 
+### Create a Branch & Checkout - Just one Step Process
+```
 # One Step process
 git checkout -b <new-branch>
 ```
 
-## Detached HEADs demistified
+## Detached HEADs demystified
 1.  HEAD is Git’s way of referring to the current snapshot.
 2.  Internally, the git checkout command simply updates the HEAD to point to either the specified branch or commit.
 3.  When it points to a branch, Git doesn't complain, but when you check out a commit, it switches into a “detached HEAD” state.
