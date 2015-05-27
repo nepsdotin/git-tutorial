@@ -2,9 +2,9 @@
 
 #### Welcome To Git Tutorial
 
-These are the course content that were using in a git workshop conducted by me.
+These are the course content that were used in a git workshop conducted by me.
 
-### You can read it 
+##### You can read it 
 
 [http://nepsdotin.github.io/git-tutorial/site/](http://nepsdotin.github.io/git-tutorial/site/)
 
