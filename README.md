@@ -17,8 +17,10 @@ If you want you can use it with due credits to me by Placing my Name (Napoleon A
 
 ### How To Use it
 The site folder contains all the html files and you can view in  any browsers
+
 1. You can clone it https://github.com/nepsdotin/git-tutorial.git
 2. cd git-tutorial/site/
+
 #### To Edit
 1. You can clone it https://github.com/nepsdotin/git-tutorial.git
 2. cd git-tutorial
