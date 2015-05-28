@@ -12,5 +12,8 @@
 
 [http://singhal.info](http://singhal.info)
 
+## Special Articles
+
+[Dealing With Line Endings](https://help.github.com/articles/dealing-with-line-endings/)
 ## Videos By Creator of GIT ( YouTube )
 [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
