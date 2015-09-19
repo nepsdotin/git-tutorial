@@ -1,4 +1,4 @@
-#My References & Citation
+# My References & Citation
 
 [http://rypress.com/tutorials/git/introduction](http://rypress.com/tutorials/git/introduction)
 
@@ -17,6 +17,7 @@
 [Dealing With Line Endings](https://help.github.com/articles/dealing-with-line-endings/)
 
 ## Git Aliases Something that are cool
+
 [must-have-git-aliases-advanced-examples](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)
 
 [https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks](https://git-scm.com/book/en/v1/Git-Basics-Tips-and-Tricks)
@@ -27,6 +28,6 @@
 
 [http://blogs.atlassian.com/2014/10/advanced-git-aliases/](http://blogs.atlassian.com/2014/10/advanced-git-aliases/)
 
-
 ## Videos By Creator of GIT ( YouTube )
+
 [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8)
