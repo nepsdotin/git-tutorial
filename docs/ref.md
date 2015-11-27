@@ -12,9 +12,15 @@
 
 [http://singhal.info](http://singhal.info)
 
-## Special Articles
+# Special Articles
 
 [Dealing With Line Endings](https://help.github.com/articles/dealing-with-line-endings/)
+
+## Insightful Design Decision behing Staging Area
+[Why Git does a two step process of staging and commiting](http://programmers.stackexchange.com/questions/69178/what-is-the-benefit-of-gits-two-stage-commit-process-staging)
+
+[Staging Area](http://gitolite.com/uses-of-index.html)
+[Detached Head](http://gitolite.com/detached-head.html)
 
 ## Git Aliases Something that are cool
 

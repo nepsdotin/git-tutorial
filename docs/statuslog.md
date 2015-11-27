@@ -24,27 +24,29 @@ List which files are staged, unstaged, and untracked.
 ```
 
 ## .gitignore files
-config file used to ignore machine generated binaries.
+Not all files in your project to be tracked on Git for their revisions, For Example lot of intermediate code like .obj, .log files are not needed to be tracked. 
+
+`.gitignore` files are handy ways to do that.
 
 ### Placed at one of the places
-```
-1.  Just go and add files ( pattern ) to be excluded with one pattern per line .git/info/exclude
 
-2.  .gitignore at the root folder of the project
+1.  .gitignore at the root folder of the project.
+2.  Just go and add files ( pattern ) to be excluded with one pattern per line .git/info/exclude
 
-```
-
-### Very useful command if you have already commited the entire directory.
-```
-$ git rm --cached <path>
-$ git rm --cached app/runtime/application.log
-```
+Note: Generally included in the project root folder.
 
 #### Lots of useful gitignore templates
 
 [https://github.com/github/gitignore/](https://github.com/github/gitignore/)
 
-## log
+### Very useful command if you have already commited the  directory.
+
+```
+$ git rm --cached <path>
+$ git rm --cached app/runtime/application.log
+```
+
+## git log
 
 ![](img/log.svg)
 
@@ -56,24 +58,25 @@ $ git log -n <limit>
 ```
 Limit the number of commits by <limit>. For example, git log -n 3 will display only 3 commits.
 
-
+### Few Options with git log
 ```
 $ git log --pretty=oneline
 $ git log --pretty=short
 $ git log --pretty=full
 $ git log --pretty=format:"%h - %an, %ar : %s"
 ```
-This option changes the log output to formats other than the default. A few prebuilt options are available for you to use. The oneline option prints each commit on a single line, which is useful if you’re looking at a lot of commits In addition, the short, full, and fuller
+This option changes the log output to formats other than the default. A few prebuilt options are available for you to use. 
+
+The oneline option prints each commit on a single line, which is useful if you’re looking at a lot of commits In addition, the short, full, and fuller.
 
 More format available
-[http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-HistoryStupid1234
+[http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History
 )
 
 ```
 $ git log --oneline
 ```
 Condense each commit to a single line. This is useful for getting a high-level overview of the project history.
-
 
 
 ```

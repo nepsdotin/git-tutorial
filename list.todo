@@ -1,0 +1,19 @@
+ ✔ 2. Introduction about Git & How its superior @done (15-11-26 17:34)
+ ✔ 3. How to Install Git on Windows, Linux, Mac @done (15-11-26 17:34)
+ ☐ 6. Using Git Status, log with many options, add, commit command
+ ☐ 7. Undoing Changes safely using revert, reset, checkout - need more explanation, git rm cached
+ ☐ 8. Branching and Merging (Create/Remove a branch, Switch to a branch, )
+ ☐ 9. Resolving merge conflicts., what does <<<<< HEAD Means
+ ☐ 10. Git Workflows Using github or bitbucket (Centralised Workflow, Forking Workflow,
+ Feature Branching Workflow)
+ ☐ Some shortcuts git alias
+ ☐ More sophestication like mergetool.
+ ☐ git stash, git cherry-pick, bisect, tag
+ ☐ best practices in git colloboration
+ sudo git checkout -- framework/cli/views/webapp/protected/controllers/SiteController.php
+
+ git blame
+ git cherry pick
+
+
+

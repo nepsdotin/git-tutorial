@@ -8,7 +8,7 @@ $ cd /path/to/my/codebase
 $ git init
 ```
 # Exercise 1.2
-### Try This
+### Linux users can Try This
 ```
 $ ls -lA
 ```

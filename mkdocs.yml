@@ -1,4 +1,4 @@
-site_name: Git Workshop BY IEDF.in & GrandAppStudio.in
+site_name: Git Tutorial
 
 theme: readthedocs
 
@@ -19,6 +19,8 @@ pages:
 - [checkoutrevertreset.md, Undoing Changes Safely!]
 - [checkoutrevertreset_ex_1.md, Exercise on Undoing Changes Safely!]
 - [branch.md, Branching Merging Handson]
+- [hosted-git.md, Hosted Git Tools]
 - [workflows.md, Git Workflows]
 - [featureflow.md, Feature Development]
+- [line-ending.md, Mysterious invisible Line Ending Characters]
 - [ref.md, References]

@@ -3,6 +3,19 @@
 #### Welcome To Git Tutorial
 
 These are the course content that were used in a git workshop conducted by me.
+#### Table of Content
+
+1. A Bit of History.
+2. Introduction about Git & How its superior
+3. How to Install Git on Windows, Linux, Mac
+4. GUI Tools For Git
+5. Your First Project
+6. Using Git Status, log, add, commit command
+7. Undoing Changes safely using revert, reset, checkout
+8. Branching and Merging (Create/Remove a branch, Switch to a branch, )
+9. Resolving merge conflicts.
+10. Git Workflows Using github or bitbucket (Centralised Workflow, Forking Workflow, Feature Branching Workflow)
+
 
 ##### You can read it 
 
