@@ -136,15 +136,13 @@ Also you can see your staged changes using `git diff --cached` or `git diff --st
 
 Now you can discard unwanted changes using `git reset -p`
 
+It opens up in a nice interactive mode, Which Is one of the best practise.
+
 ## Adding interactively
 
 ```
 git add --interactive
 ```
-
-It opens up in a nice interactive mode, Which Is one of the best practise.
-
-
 
 ## To Understand
 

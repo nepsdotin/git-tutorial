@@ -1,4 +1,4 @@
-# Git is Completed Distributed
+# Git is Completely Distributed
 
 ## SVN
 

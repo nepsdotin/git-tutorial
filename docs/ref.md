@@ -1,4 +1,4 @@
-# My References & Citation
+# My References & Citation Not that boring reads.
 
 [http://rypress.com/tutorials/git/introduction](http://rypress.com/tutorials/git/introduction)
 
@@ -12,15 +12,14 @@
 
 [http://singhal.info](http://singhal.info)
 
-# Special Articles
-
 [Dealing With Line Endings](https://help.github.com/articles/dealing-with-line-endings/)
 
-## Insightful Design Decision behing Staging Area
+# Insightful Design Decision behing Staging Area
 [Why Git does a two step process of staging and commiting](http://programmers.stackexchange.com/questions/69178/what-is-the-benefit-of-gits-two-stage-commit-process-staging)
 
 [Staging Area](http://gitolite.com/uses-of-index.html)
 [Detached Head](http://gitolite.com/detached-head.html)
+[The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
 ## Git Aliases Something that are cool
 
@@ -33,6 +32,7 @@
 [https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master](https://bitbucket.org/durdn/cfg/src/master/.gitconfig?at=master)
 
 [http://blogs.atlassian.com/2014/10/advanced-git-aliases/](http://blogs.atlassian.com/2014/10/advanced-git-aliases/)
+
 
 ## Videos By Creator of GIT ( YouTube )
 

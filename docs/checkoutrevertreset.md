@@ -64,6 +64,12 @@ $ git checkout master
 ```
 Return to the master branch.
 
+## To discard your change in your work tree.
+
+`git checkout -- file`
+
+You can do it without the -- , but if the filename looks like a branch or tag (or other revision identifier), it may get confused, so using -- is best.
+
 #### Detached HEAD
 ![](img/detachedhead.svg)
 
