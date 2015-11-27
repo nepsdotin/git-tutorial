@@ -164,6 +164,8 @@
                         
                             <li><a class="toctree-l4" href="#checkout">Checkout</a></li>
                         
+                            <li><a class="toctree-l4" href="#to-discard-your-change-in-your-work-tree">To discard your change in your work tree.</a></li>
+                        
                             <li><a class="toctree-l4" href="#revert">Revert</a></li>
                         
                             <li><a class="toctree-l4" href="#reset">Reset</a></li>
@@ -318,6 +320,9 @@ You can use either a commit hash or a tag.</p>
 </code></pre>
 
 <p>Return to the master branch.</p>
+<h2 id="to-discard-your-change-in-your-work-tree">To discard your change in your work tree.</h2>
+<p><code>git checkout -- file</code></p>
+<p>You can do it without the -- , but if the filename looks like a branch or tag (or other revision identifier), it may get confused, so using -- is best.</p>
 <h4 id="detached-head">Detached HEAD</h4>
 <p><img alt="" src="../img/detachedhead.svg" /></p>
 <h2 id="revert">Revert</h2>
@@ -426,7 +431,7 @@ You can use either a commit hash or a tag.</p>
 
 <!--
 MkDocs version  : 0.12.2
-Docs Build Date : 2015-11-27 15:40:07.719663
+Docs Build Date : 2015-11-27 18:47:30.730674
 -->
 </body>
 </html>
