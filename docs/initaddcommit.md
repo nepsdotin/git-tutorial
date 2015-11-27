@@ -132,9 +132,10 @@ Here is the interpretation of these
 
 Now you can actually understand why you have Staging Area
 
-Also you can see your staged changes using `git diff --cached` or `git diff --staged`
+Also you can see your staged changes using `git diff --cached` or `git diff --staged`.
 
 Now you can discard unwanted changes using `git reset -p`
+
 ## Adding interactively
 
 ```

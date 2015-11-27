@@ -1,4 +1,4 @@
-# Adding GIT PATH
+# Adding GIT PATH on Windows
 
 ## How do I add my GIT directory to the PATH on Windows?
 
@@ -25,7 +25,7 @@ Open the Notepad (Start -> Run and enter notepad)
 
 4.  Note: Be sure to reboot after following the steps above to ensure that the PATH changes are applied. 
 
-## On Mac
+## How do I add my GIT directory to the PATH On Mac
 
 ### Do the following
 

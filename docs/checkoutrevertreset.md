@@ -1,15 +1,26 @@
 # [Re]moving Files
 
-#### $ git rm [options] <files>
+### $ git rm [options] <files>
+lets say you have deleted few files on your project. Now that should be deleted in your repo also.
+
+### -f or --force Override the up-to-date check.
+
 ```
 $ git rm [options] <files>
 [options]
 -f, --force  Override the up-to-date check.
+```
 
+### --cached 
+```
 --cached 
 Use this option to unstage and remove paths only from the index. 
 Working tree files, whether modified or not, will be left alone.
+```
 
+### -n or --dry-run
+
+```
 -n, --dry-run
 Don't actually remove any file(s). Instead, just show if they exist in the index and would otherwise be removed by the command.
 
@@ -18,12 +29,14 @@ Don't actually remove any file(s). Instead, just show if they exist in the index
 
 #### $ git mv [-v] [-f] [-n] [-k] <source> <destination>
 
+Changing filenames can be done using git mv command. You have the same options as `rm` command.
+
 ```
 $ git mv [-v] [-f] [-n] [-k] <source> <destination>
 $ git mv [-v] [-f] [-n] [-k] <source> ... <destination directory>
 ```
 
-# Undoing Changes 
+# Undoing Changes
 ![](img/undo.svg)
 ## Checkout
 ```
