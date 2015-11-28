@@ -18,7 +18,9 @@
 [Why Git does a two step process of staging and commiting](http://programmers.stackexchange.com/questions/69178/what-is-the-benefit-of-gits-two-stage-commit-process-staging)
 
 [Staging Area](http://gitolite.com/uses-of-index.html)
+
 [Detached Head](http://gitolite.com/detached-head.html)
+
 [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
 ## Git Aliases Something that are cool
