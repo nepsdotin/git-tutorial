@@ -23,6 +23,7 @@
 
 [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
 
+[if git stores snapshots of the complete project then how git keeps the repo size small](http://stackoverflow.com/questions/2869213/how-does-git-save-space-and-is-fast-at-the-same-time)
 ## Git Aliases Something that are cool
 
 [must-have-git-aliases-advanced-examples](http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/)
