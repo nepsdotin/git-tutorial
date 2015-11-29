@@ -23,4 +23,5 @@ pages:
 - [workflows.md, Git Workflows]
 - [featureflow.md, Feature Development]
 - [line-ending.md, Mysterious invisible Line Ending Characters]
+- [integrations-plugins.md, Integrations and Plugins]
 - [ref.md, References]
